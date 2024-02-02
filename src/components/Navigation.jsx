@@ -11,7 +11,7 @@ function Navigation() {
     <Navbar bg="dark" data-bs-theme="dark">
         <Container>
           <Navbar.Brand href="#home">
-            <img alt="" src="./src/components/myntra.png" width="32" height="32" className="d-inline-block align-top"
+            <img alt="" src="../public/myntra.png" width="32" height="32" className="d-inline-block align-top"
             />{' '}
             Myntra
           </Navbar.Brand>
